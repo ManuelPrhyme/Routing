@@ -1,0 +1,9 @@
+Importing - Bringing external resources into a particular function comoment
+
+Routing - A route is a path from a page to another.
+
+useState
+Props
+
+useEffect
+useContext
